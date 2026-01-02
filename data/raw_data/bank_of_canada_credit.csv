@@ -1,0 +1,40 @@
+﻿"Credit measures, Bank of Canada (x 1,000,000) 1",,,,,,
+Frequency: Monthly,,,,,,
+Table: 10-10-0118-01 (formerly CANSIM 176-0032),,,,,,
+Release date: 2020-11-02,,,,,,
+Geography: Canada,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,Geography,Canada,,,,
+Type of credit,Seasonal adjustment,May-20,Jun-20,Jul-20,Aug-20,Sep-20
+Total business and household credit,,Dollars,,,,
+,Unadjusted,"46,22,557","46,20,003","46,20,160","46,18,799","46,38,279"
+,Seasonally adjusted,"46,26,688","46,19,867","46,14,677","46,13,161","46,31,546"
+Household credit,Unadjusted,"22,86,299","22,93,382","23,03,126","23,15,383","23,34,129"
+,Seasonally adjusted,"22,93,203","22,95,706","23,02,056","23,11,208","23,27,992"
+Residential mortgage credit,Unadjusted,"16,65,804","16,73,882","16,82,059","16,92,623","17,07,880"
+,Seasonally adjusted,"16,71,280","16,77,019","16,82,913","16,91,288","17,05,636"
+Consumer credit,Unadjusted,"6,20,495","6,19,500","6,21,067","6,22,760","6,26,249"
+,Seasonally adjusted,"6,21,923","6,18,687","6,19,143","6,19,920","6,22,356"
+Business credit 2,Unadjusted,"23,36,259","23,26,622","23,17,036","23,03,416","23,04,149"
+,Seasonally adjusted,"23,33,486","23,24,162","23,12,623","23,01,953","23,03,554"
+Other business credit 2,Unadjusted,..,..,..,..,..
+,Seasonally adjusted,..,..,..,..,..
+Short-term business credit 2,Unadjusted,..,..,..,..,..
+,Seasonally adjusted,..,..,..,..,..
+,,,,,,
+Symbol legend:,,,,,,
+.., not available for a specific reference period,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+Footnotes:,,,,,,
+1,"Through December 2020, the Bank is gradually phasing out the dissemination of credit aggregates and securities statistics. This table will be discontinued after the release of September 2020 data.",,,,,
+2,"As of November 2015, business credit has been restructured to reflect business loans, debt securities and equity. Please refer to table 176-0023 for business credit.",,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+"How to cite: Statistics Canada. Table 10-10-0118-01  Credit measures, Bank of Canada (x 1,000,000)",,,,,,
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1010011801,,,,,,

@@ -1,0 +1,116 @@
+Predicted Credit Risk,Feature,SHAP_value
+Low,May-25,-2.375928158681556e-08
+High,May-25,1.652014886726676e-10
+High,May-25,6.541581147319231e-09
+Low,May-25,1.73003063101744e-08
+High,May-25,-2.4780735935073205e-10
+Low,Jun-25,-2.374874773761652e-08
+High,Jun-25,1.1687801552794584e-10
+High,Jun-25,6.469859758331343e-09
+Low,Jun-25,1.7337332121294527e-08
+High,Jun-25,-1.7532215753729498e-10
+Low,Jul-25,-2.3722483741347244e-08
+High,Jul-25,4.343308777642793e-11
+High,Jul-25,6.406127642281518e-09
+Low,Jul-25,1.7338082919569443e-08
+High,Jul-25,-6.515990828014334e-11
+Low,Aug-25,-2.369396819262493e-08
+High,Aug-25,-3.8043449800205056e-11
+High,Aug-25,6.3325387760627486e-09
+Low,Aug-25,1.7342407691662082e-08
+High,Aug-25,5.7065174700315556e-11
+Low,Sep-25,-2.3673996327516144e-08
+High,Sep-25,-1.0003679930237642e-10
+High,Sep-25,6.268989130257343e-09
+Low,Sep-25,1.735498879760762e-08
+High,Sep-25,1.500551989535726e-10
+Low,Jun-25_MoM_change,3.75093540466695
+High,Jun-25_MoM_change,-3.863303407732824
+High,Jun-25_MoM_change,-6.505911386811081
+Low,Jun-25_MoM_change,0.8233242782777189
+High,Jun-25_MoM_change,5.794955111599236
+Low,Jul-25_MoM_change,-1.9938962890635843
+High,Jul-25_MoM_change,3.2543960278457185
+High,Jul-25_MoM_change,3.047011166796269
+Low,Jul-25_MoM_change,0.5738557405091991
+High,Jul-25_MoM_change,-4.881366646087602
+Low,Aug-25_MoM_change,-1.0868691766436935
+High,Aug-25_MoM_change,3.1453984450656516
+High,Aug-25_MoM_change,2.837142732460837
+Low,Aug-25_MoM_change,-0.17717760778546993
+High,Aug-25_MoM_change,-4.718494393097326
+Low,Sep-25_MoM_change,0.1603768203272114
+High,Sep-25_MoM_change,0.12691883260942122
+High,Sep-25_MoM_change,0.07601086378959805
+Low,Sep-25_MoM_change,-0.1729282678120988
+High,Sep-25_MoM_change,-0.1903782489141318
+Low,Jun-25_MoM_pct_change,4.242822969978094e-09
+High,Jun-25_MoM_pct_change,-4.0243926669952904e-08
+High,Jun-25_MoM_pct_change,-8.085808180628204e-08
+Low,Jun-25_MoM_pct_change,6.88975992042215e-08
+High,Jun-25_MoM_pct_change,4.796158630203535e-08
+Low,Jul-25_MoM_pct_change,-5.109735413232102e-09
+High,Jul-25_MoM_pct_change,1.006942314947049e-08
+High,Jul-25_MoM_pct_change,1.2990701956079474e-08
+Low,Jul-25_MoM_pct_change,2.1509764017925927e-09
+High,Jul-25_MoM_pct_change,-2.0101366094110453e-08
+Low,Aug-25_MoM_pct_change,-6.959954860533842e-09
+High,Aug-25_MoM_pct_change,1.4724607088696168e-08
+High,Aug-25_MoM_pct_change,1.9767334720009297e-08
+Low,Aug-25_MoM_pct_change,1.017802867060652e-09
+High,Aug-25_MoM_pct_change,-2.8549789815232273e-08
+Low,Sep-25_MoM_pct_change,-9.306372751179465e-09
+High,Sep-25_MoM_pct_change,2.5117569530067195e-08
+High,Sep-25_MoM_pct_change,3.795008814575961e-08
+Low,Sep-25_MoM_pct_change,-9.892568462733804e-09
+High,Sep-25_MoM_pct_change,-4.3868716461913585e-08
+Low,avg_credit,492.9985481828669
+High,avg_credit,-0.7782340191858321
+High,avg_credit,-133.098534840319
+Low,avg_credit,-360.2892156642387
+High,avg_credit,1.1674363408766972
+Low,max_credit,-2387.20407557686
+High,max_credit,-3.9199371682201547
+High,max_credit,639.9769210098158
+Low,max_credit,1760.7511861042356
+High,max_credit,-9.604094368970415
+Low,min_credit,1986.9217759877863
+High,min_credit,-5.542758797615152
+High,min_credit,-539.6729115276823
+Low,min_credit,-1443.678165960465
+High,min_credit,1.972060297977209
+Low,credit_range,11.66629212698122
+High,credit_range,-19.393833177495015
+High,credit_range,-18.57397007966289
+Low,credit_range,39.530276763696186
+High,credit_range,-13.228765633519485
+Low,credit_trend,-0.22553613841224526
+High,credit_trend,1.4442279258048603
+High,credit_trend,1.4200721060926553
+Low,credit_trend,-0.47239411122173014
+High,credit_trend,-2.16636978226354
+Low,credit_std_dev,1.6918566759281934
+High,credit_std_dev,-2.985718148722587
+High,credit_std_dev,-2.4677864521928963
+Low,credit_std_dev,6.317653664255351
+High,credit_std_dev,-2.5560057392680626
+Low,Credit_Type_Consumer credit,0.0
+High,Credit_Type_Consumer credit,0.0
+High,Credit_Type_Consumer credit,0.0
+Low,Credit_Type_Consumer credit,0.0
+High,Credit_Type_Consumer credit,0.0
+Low,Credit_Type_Household credit,-0.0
+High,Credit_Type_Household credit,-0.0
+High,Credit_Type_Household credit,-0.0
+Low,Credit_Type_Household credit,-0.0
+High,Credit_Type_Household credit,-0.0
+Low,Credit_Type_Residential mortgage credit,0.0
+High,Credit_Type_Residential mortgage credit,0.0
+High,Credit_Type_Residential mortgage credit,0.0
+Low,Credit_Type_Residential mortgage credit,0.0
+High,Credit_Type_Residential mortgage credit,0.0
+Low,Credit_Type_Total business and household credit,0.0
+High,Credit_Type_Total business and household credit,0.0
+High,Credit_Type_Total business and household credit,0.0
+Low,Credit_Type_Total business and household credit,0.0
+High,Credit_Type_Total business and household credit,0.0
