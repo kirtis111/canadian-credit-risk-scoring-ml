@@ -1,0 +1,22 @@
+# Core data handling
+pandas>=1.5
+numpy>=1.23
+
+# Visualization
+matplotlib>=3.7
+seaborn>=0.12
+
+# Machine Learning
+scikit-learn>=1.2
+xgboost>=1.7
+lightgbm>=4.0
+
+# Explainable AI
+shap>=0.42
+
+# App & UI
+streamlit>=1.28
+
+# Utilities
+pyyaml>=6.0
+joblib>=1.2
