@@ -36,7 +36,8 @@ This project answers:
 
 * Source: **Bank of Canada / Statistics Canada**
 * Data Type: Monthly aggregate credit measures (business & household)
-
+  
+(All datasets are public and anonymized.)
 ---
 
 ### 2. Data Cleaning
@@ -153,8 +154,13 @@ Notebook: `06_results_and_business_insights.ipynb`
 
 * **`predicted_credit_risk.csv`** – Predictions per account
 * **`shap_summary.csv`** – Feature impact per prediction
+* ![SHAP Value_Model_Evaluation](https://github.com/user-attachments/assets/1a3d9916-ec81-4456-9c7c-4df0cebad239)
+
 * **Power BI Dashboard** – Executive insights and trend monitoring
+* ![credit_risk_powerbi_dashboard](https://github.com/user-attachments/assets/8da8f8ac-4e5f-4fc0-8d0c-fcca8c4c25e5)
+
 * **Streamlit App** – Interactive UI for real-time credit risk predictions and SHAP-based explainability
+* ![Streamlit_UI](https://github.com/user-attachments/assets/304fbca0-e5f4-45ea-a427-4874c04234b8)
 
 ## Business Applications
 
@@ -210,12 +216,13 @@ Notebook: `06_results_and_business_insights.ipynb`
 
 ---
 
-## **How to Use**
+## **How to Run**
 
-1. Run all Jupyter notebooks sequentially (`01 → 06`) to process data and train the model
-2. Open **Streamlit App** to test predictions and visualize SHAP features:
-   `streamlit run Credit_Risk_App.py`
-3. Load `predicted_credit_risk.csv` and `shap_summary.csv` in **Power BI** for interactive dashboards
+1. pip install -r requirements.txt
+2. Run all Jupyter notebooks sequentially (`01 → 06`) to process data and train the model
+3. Open **Streamlit App** to test predictions and visualize SHAP features:
+   `streamlit run Credit_Risk_streamlit_App.py`
+4. Load `predicted_credit_risk.csv` and `shap_summary.csv` in **Power BI** for interactive dashboards
 
 ## Author
 
